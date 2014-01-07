@@ -1,5 +1,17 @@
-Sitemap: http://robert-hartmann.weebly.com/sitemap.xml
-
 User-agent: *
-Disallow: /ajax/apps/download.php 
 Disallow: 
+
+User-agent: SurveyBot
+Disallow: /
+
+User-agent: WebsiteWiki
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: Jakarta Commons-HttpClient
+Disallow: /
+
+User-Agent: AboutUsBot 
+Disallow: /
