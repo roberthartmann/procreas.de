@@ -3,7 +3,7 @@
  a img { border: 0; }
  a { text-decoration: none; }
  body { font-family: Arial, Helvetica, sans-serif; font-size: 0px; background: url(theme/header-bg.jpg@559518) repeat center top; }
- .container { margin: 0 auto; width: 960px; }
+ .container { margin: 0 auto; width: 1000px; }
  #header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; }
  h3 { font-size: 20px; padding: .5em 0 .2em 0; line-height: 1.2; font-family: 'Open Sans', sans-serif; font-weight: bold; color: #448eb8; letter-spacing:-1px; }
  a { color: #448eb8; }
@@ -73,11 +73,11 @@
  #banner-wrap {background:#fff; top:-10px; position:relative;}
  #banner { position:absolute; }
  .tall-header-page #banner-wrap { height: 342px; }
- .tall-header-page #banner { height: 342px; width: 960px; z-index: 0; -webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25); border-radius:0px 0px 3px 0px; overflow:hidden; }
- .tall-header-page .wsite-header { width: 960px; float: left; height: 342px; background: url(theme/banner-tall.jpg@559518) no-repeat; }
+ .tall-header-page #banner { height: 342px; width: 1000px; z-index: 0; -webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25); border-radius:0px 0px 3px 0px; overflow:hidden; }
+ .tall-header-page .wsite-header { width: 1000px; float: left; height: 342px; background: url(theme/banner-tall.jpg@559518) no-repeat; }
  .short-header-page #banner-wrap { height: 200px; }
- .short-header-page #banner { height: 200px; width: 960px; z-index: 0; -webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25); border-radius:0px 0px 3px 0px; overflow:hidden; }
- .short-header-page .wsite-header { width: 960px; float: left; height: 221px; background: url(theme/banner-short.jpg@559518) no-repeat; }
+ .short-header-page #banner { height: 200px; width: 1000px; z-index: 0; -webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25); border-radius:0px 0px 3px 0px; overflow:hidden; }
+ .short-header-page .wsite-header { width: 1000px; float: left; height: 221px; background: url(theme/banner-short.jpg@559518) no-repeat; }
  .no-header-page .wsite-header { display:none; }
  .landing-page #banner-wrap .container { height:350px; position:relative; }
  .landing-page #banner { background: none; padding: 0; position:relative; }
